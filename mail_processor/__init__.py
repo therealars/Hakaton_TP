@@ -1,0 +1,1 @@
+"""Corporate mail processing package."""
